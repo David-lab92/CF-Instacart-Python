@@ -2,7 +2,7 @@
 
 
 #  Objective 
-![Instacart](https://play-lh.googleusercontent.com/RTOW09IpH5OqBg6ct474zajUTiSEH07-I_B2Vf5OshxHRP8Og5hnG8YkzCp_5ieubQ=w240-h480-rw)
+![Instacart](https://www.instacart.com/assets/beetstrap/brand/2022/instacart-logo-color-6678cb82d531f8910d5ba270a11a7e9b56fc261371bda42ea7a5abeff3492e1c.svg)
 Instacart is an online grocery store that operates through an app. Instacart already has outstanding sales but wants to uncover more information
 about its sales patterns. The objective of this study is to analyse customer behaviour and find ways for growth.
 
