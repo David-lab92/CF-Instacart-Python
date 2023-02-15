@@ -14,7 +14,7 @@ The dataset comprises information on the following parameters:
 * Products
 + Departments
 
-The full details of the data are available here [here](https://www.instacart.com/datasets/grocery-shopping-2017)
+The full details of the data are available [here](https://www.instacart.com/datasets/grocery-shopping-2017)
 
 #  Tools 
 
@@ -25,5 +25,5 @@ seaborn -for visualization
 
 # Executing code 
 
-The code is available as jupyter notebooks, under/03 Scripts/
+The code is available as jupyter notebooks, under _/03 Scripts/_
 
