@@ -20,8 +20,8 @@ The full details of the data are available [here](https://www.instacart.com/data
 
 For this project the following python libraries were used:
 
-Pandas -for data analysis
-seaborn -for visualization
+- Pandas -for data analysis
+* seaborn -for visualization
 
 # Executing code 
 
